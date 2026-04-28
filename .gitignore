@@ -25,6 +25,7 @@ lib/
 
 # uppercase
 Lib/
+share
 lib64/
 parts/
 sdist/
